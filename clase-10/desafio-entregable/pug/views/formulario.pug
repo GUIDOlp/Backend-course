@@ -1,0 +1,20 @@
+extends layout
+
+block body 
+  section.p-4.bg-secondary
+    h2.text-primary Ingrese Producto
+    form(action='/productos' method='POST')
+        div(class=classDiv)
+            label(class=classLabel for='name') Nombre
+            input.form-control(type='text' name='name')
+        div(class=classDiv)
+            label(class=classLabel for='name') Precio
+            input.form-control(type='number' name='price')
+        div(class=classDiv)
+            label(class=classLabel for='name') Imagen 
+            input.form-control(type='url' name='picture')
+        div(class=classDiv)
+            input.btn.btn-success(type='submit' value='Enviar')
+    div(class=classDiv)
+        a(href="/productos")
+            button.btn.btn-warning Ver Productos

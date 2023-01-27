@@ -1,0 +1,3 @@
+En relacion a los distintos motores de plantillas utilizados en clase, en particular me siento mucho mas comodo con handlebars. Creo que la sintaxis es mas amigable y sencilla que pug y sobre todo que ejs. Esta ultima(ejs) es bastante compleja por el uso de etiquetas especiales para redireccionar a otros archivos y/o incrustar valor en html, el cual me ha causado varias dificultades.
+
+La ventaja que tiene handlebars a mi modo de ver es que se utiliza un html tradicional desde el lado del front, sin perjuicio que opcionalmente se pueden agregar en ella variables de js. En fin, me inclino por este motor de plantillas, porque es mas simple y mas legible para escribir codigo.
