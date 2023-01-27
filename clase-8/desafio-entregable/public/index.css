@@ -1,0 +1,13 @@
+form .form-prod{
+    padding: 5px 5px;
+    border-radius: 20px;
+    margin: 5px;
+}
+
+form .form-submit{
+    border-radius: 20px;
+    padding: 5px 10px;
+    cursor: pointer;
+    background-color: blueviolet;
+    color: white;
+}
