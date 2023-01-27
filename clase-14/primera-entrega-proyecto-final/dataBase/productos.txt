@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "Sun Jan 08 2023",
+    "nombre": "Pizza Napolitana",
+    "descripcion": "Pizza de muzzarela con tomate",
+    "codigo": 1,
+    "url": "https://t2.rg.ltmcdn.com/es/posts/5/2/6/pizza_napolitana_32625_orig.jpg",
+    "precio": "$1200",
+    "stock": 20,
+    "id": 1
+  },
+  {
+    "timestamp": "Sun Jan 08 2023",
+    "nombre": "Pizza Chicago",
+    "descripcion": "Pizza de muzzarela con abundante salsa de tomate y peperoni",
+    "codigo": 2,
+    "url": "https://media.ambito.com/p/954b9a2e8b93ae3678babae626795eb9/adjuntos/239/imagenes/039/416/0039416653/tognis-pizzajpeg.jpeg",
+    "precio": null,
+    "stock": 15,
+    "id": 2
+  },
+  {
+    "timestamp": "Sun Jan 08 2023",
+    "nombre": "Pizza hawaiana",
+    "descripcion": "Pizza de muzzarela con jamon, tomate y piña",
+    "codigo": 3,
+    "url": "undefined",
+    "precio": null,
+    "stock": 12,
+    "id": 3
+  },
+  {
+    "timestamp": "Sun Jan 08 2023",
+    "nombre": "Empanada de carne",
+    "descripcion": "empanada de carne con cebolla, aji molido, morron, ajo, carne picada",
+    "codigo": 4,
+    "url": "undefined",
+    "precio": null,
+    "stock": 40,
+    "id": 4
+  }
+]
